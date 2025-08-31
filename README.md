@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Shimaasaied123
-- 👀 I’m interested in learning frontend.
-- 🌱 I’m currently learning js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Shimaasaied123/Shimaasaied123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am flutter developer and  student in faculty of Computer Science, I am a
+ dedicated Flutter developer with a strong passion for programming. My
+ practical experience includes building a language learning app, where I
+ applied and refined my skills in Dart, Flutter, and API integration. I am
+ committed to continuous learning and eager to contribute to innovative
+ technological projects
